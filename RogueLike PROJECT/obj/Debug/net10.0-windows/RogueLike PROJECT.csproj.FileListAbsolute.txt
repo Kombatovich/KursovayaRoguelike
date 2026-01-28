@@ -1,0 +1,37 @@
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike_PROJECT.Form1.resources
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.csproj.GenerateResource.cache
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.AssemblyInfo.cs
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\RogueLike PROJECT.exe
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\RogueLike PROJECT.deps.json
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\RogueLike PROJECT.runtimeconfig.json
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\RogueLike PROJECT.dll
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\RogueLike PROJECT.pdb
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.dll
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\refint\RogueLike PROJECT.dll
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.pdb
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike PROJECT.genruntimeconfig.cache
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\ref\RogueLike PROJECT.dll
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\player_idle.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\player_walk.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\zombie_idle.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\zombie_walk.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\player_roll.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\arrow.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\axe.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\bow.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\player_death.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\spear.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\sword.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\web.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\chest.png
+C:\Users\danya\source\repos\RogueLike PROJECT\obj\Debug\net10.0-windows\RogueLike_PROJECT.GameForm.resources
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\skeleton_walk.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\spider_walk.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\floor.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\wall.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\boss_bonelord.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\boss_gravebrute.png
+C:\Users\danya\source\repos\RogueLike PROJECT\bin\Debug\net10.0-windows\Assets\boss_webqueen.png
